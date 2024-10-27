@@ -17,15 +17,15 @@ This is a simple JavaScript project that shows how to add, multiply, and divide 
 
 ## Screenshots
 
-![Branches](evidence\branches.png)
-![Branch Feature](evidence\branch-feature.jpg)
-![Branch Test](evidence\branch-test.jpg)
-![Branch Main](evidence\branch-main.jpg)
-![Pull Request](evidence\pull-request.jpg)
-![Fork](evidence\fork.jpg)
+![Branches](evidence/branches.png)
+![Branch Feature](evidence/branch-feature.jpg)
+![Branch Test](evidence/branch-test.jpg)
+![Branch Main](evidence/branch-main.jpg)
+![Pull Request](evidence/pull-request.jpg)
+![Fork](evidence/fork.jpg)
 ![Pull Request Frok](evidence/pull-request-fork-2.jpg)
-![Pull Request Frok Main Repository](evidence\pull-request-fork-1.jpg)
-![Merge Fork](evidence\merge-fork.jpg)
+![Pull Request Frok Main Repository](evidence/pull-request-fork-1.jpg)
+![Merge Fork](evidence/merge-fork.jpg)
 
 ## Authors
 - Bryan Quilumba
